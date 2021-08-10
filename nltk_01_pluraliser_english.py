@@ -1,7 +1,7 @@
 # A program which determines the plural form for an English noun.
 
-# Variant 1 uses just python arrays.
-# Variant 2 uses python dictionaries.
+# Variant 1 uses arrays.
+# Variant 2 uses dictionaries.
 
 # Variant 1
 
