@@ -1,1 +1,1 @@
-# some experiments with Natural Language Toolkit (NLTK) library
+Some experiments with Natural Language Toolkit (NLTK) library
